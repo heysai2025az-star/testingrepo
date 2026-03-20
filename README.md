@@ -1,1 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Double+Ink&pause=1000&color=F7EA24&width=435&lines=Hello+%F0%9F%91%8B+I+am+Sai+Learning+Git+%26+DevOps](https://git.io/typing-svg))
+## Commands mostly used for git
+```
+git add
+git commit -m "Commit Message"
+git log
+git status
+git branch
+git remote -v
+```
